@@ -8,8 +8,8 @@ img.person_image
   width: 280px;
   height: 400px;
   border: solid;
-  border-width: 10px;
-  border-color: black;
+  border-width: 5px;
+  border-color: lightgreen;
 }
   
 a{font-family:monospace;
