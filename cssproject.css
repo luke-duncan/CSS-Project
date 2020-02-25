@@ -20,6 +20,7 @@ table
   font-family: monospace;
   color: lightgreen;
 }
-
-
+a:hover{ 
+background-color:lightslategray;
+}
 
