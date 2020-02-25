@@ -5,8 +5,8 @@ body
 }
 img.person_image 
 {
-  width= 200px;
-  height= 400px;
+  width: 200px;
+  height: 400px;
 }
   
 a{font-family:monospace;
