@@ -14,6 +14,7 @@ img.person_image
   
 a{font-family:monospace;
   color: lightgreen;
+  font-size: 20px
 }
 table
 {
@@ -23,6 +24,5 @@ table
 }
 a:hover{ 
 background-color:lightslategray;
-  font-size:18px;
+  font-size:23px;
 }
-
