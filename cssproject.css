@@ -10,12 +10,10 @@ table
 {
   font-family: monospace;
 }
-div.reading
+#text
 {
   font-color: white;
-  font-size: 13px;
 }
-
 
 
 
