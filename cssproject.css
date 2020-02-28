@@ -15,7 +15,11 @@ img.person_image
   border-width: 5px;
   border-color: lightgreen;
    opacity: .7;
-  border-radius: 12px;
+  //border-radius: 12px;
+  filter: grayscale(50%);
+  //border-radius: 10px;
+  //filter: grayscale(.7) blur(.5px) sepia(.6);
+}
 }
   
 a{font-family:monospace;
@@ -33,4 +37,22 @@ a:hover{
 background-color:lightslategray;
   font-size:23px;
 }
+
+.person_info
+{
+background:green;
+margin-bottom: 50px;
+}
+
+.username
+{
+  position:absolute;
+}
+
+.person_info
+{
+  width:285px;
+  height:405px
+}
+
 
