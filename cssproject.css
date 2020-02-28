@@ -5,6 +5,7 @@ body
   background-color: black;
   font-family: monospace;
   font-size: 20px;
+   
 }
 img.person_image 
 {
@@ -13,6 +14,8 @@ img.person_image
   border: solid;
   border-width: 5px;
   border-color: lightgreen;
+   opacity: .7;
+  border-radius: 12px;
 }
   
 a{font-family:monospace;
