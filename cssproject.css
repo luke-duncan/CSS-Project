@@ -28,7 +28,7 @@ a{font-family:monospace;
   font-size: 20px;
   margin: 10px;
 }
-table
+table, td
 {
   font-family: monospace;
   color: lightgreen;
