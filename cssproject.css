@@ -33,6 +33,8 @@ table, td
   font-family: monospace;
   color: lightgreen;
   font-size:30px
+    border: solid;
+  border-color: lightgreen;
 }
 a:hover{ 
 background-color:lightslategray;
