@@ -36,6 +36,7 @@ table, td
   color: lightgreen;
   font-size:30px
   border-color: lightgreen;
+  text-align: center;
 }
 a:hover{ 
 background-color:lightslategray;
@@ -53,8 +54,16 @@ margin-bottom: 50px;
   position:absolute;
 }
 
+
+
 .person_info
 {
   width:285px;
   height:405px
 }
+
+.day-box
+{
+  margin:20px
+}
+
