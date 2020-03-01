@@ -30,10 +30,11 @@ a{font-family:monospace;
 }
 table, td
 {
+  border: solid;
+  border-collapse:collapse;
   font-family: monospace;
   color: lightgreen;
   font-size:30px
-    border: solid;
   border-color: lightgreen;
 }
 a:hover{ 
