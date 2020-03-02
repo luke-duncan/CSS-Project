@@ -66,4 +66,8 @@ margin-bottom: 50px;
 {
   margin:20px
 }
-
+input
+{
+  background-color: black;
+  color: lightgreen;
+}
