@@ -77,6 +77,8 @@ input
 body
 {
   animation: fading 1s;
+  animation: fading 1s;
+  animation-fill-mode: forwards; 
 }
 
   @keyframes fading{0%{opacity:0}50%{opacity:1}100%{opacity:0}}
