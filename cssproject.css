@@ -76,7 +76,7 @@ input
 
 body
 {
-  animation: fading .2s;
+  animation: fading .38s;
   
   animation-fill-mode: forwards; 
 }
